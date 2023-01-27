@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjddn2165&layout=compact)](https://github.com/wjddn2165/github-readme-stats)
 
 [![Jungwoo Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjddn2165)](https://github.com/wjddn2165/github-readme-stats)
 
