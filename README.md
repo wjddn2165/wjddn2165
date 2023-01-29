@@ -1,7 +1,7 @@
  ### Hi there 👋 
 
 - I'm Bae Jung Woo, majoring in computer engineering at Chung-Ang University.
-- I am studying springboot
+- I am studying Spring Boot
 
 
 🛠 stack
