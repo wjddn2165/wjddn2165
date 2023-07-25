@@ -1,7 +1,7 @@
  ### Hi there 👋 
 
-- I'm Bae Jung Woo, majoring in computer engineering at Chung-Ang University.
-- I am studying Spring Boot
+* 중앙대학교 소프트웨어학부 재학중
+* 네이버 부스트캠프 웹 풀스택 8기 (23.07.10~)
 
 
 🛠 stack
